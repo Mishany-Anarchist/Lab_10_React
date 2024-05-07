@@ -1,0 +1,31 @@
+.blocks {
+  text-align: center;
+  width: 25%;
+}
+
+.images__text {
+  font-weight: 100;
+  font-size: 14px;
+  color: gray;
+}
+
+.block__images {
+  margin-bottom: 15px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.main {
+  margin: 0 auto;
+  width: 80%;
+  text-align: center;
+}
+
+.main__title {
+  font-size: 30px;
+  margin-bottom: 60px;
+}
